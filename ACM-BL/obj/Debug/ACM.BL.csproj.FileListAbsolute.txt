@@ -1,0 +1,7 @@
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ACM-BL\bin\Debug\ACM-BL.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ACM-BL\bin\Debug\ACM-BL.pdb
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ACM-BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ACM-BL\obj\Debug\ACM-BL.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ACM-BL\obj\Debug\ACM-BL.pdb
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ACM-BL\bin\Debug\ClassLibrary1.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ACM-BL\bin\Debug\ClassLibrary1.pdb

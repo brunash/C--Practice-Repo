@@ -1,0 +1,9 @@
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\bin\Debug\ClassLibrary1.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\bin\Debug\ClassLibrary1.pdb
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojResolveAssemblyReference.cache
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\bin\Debug\ACM-BL.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\Tests\Acme.CommonTest\bin\Debug\ACM-BL.pdb

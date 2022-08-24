@@ -1,0 +1,5 @@
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ClassLibrary1\obj\Debug\Acme.common.csprojResolveAssemblyReference.cache
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\slobodanz\OneDrive - UKG\Desktop\exercises\ACM\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
